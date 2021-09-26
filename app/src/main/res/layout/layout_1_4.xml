@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_gravity="bottom">
+
+    <Button
+        android:id="@+id/account_b"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#EAD839"
+        android:text="@string/hi_i_am_button"
+        android:textColor="#00FF00"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#F2F46C"
+        android:text="@string/hi_i_am_textview"
+        android:textColor="#3B39EA"
+        android:textSize="25sp"
+        android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:id="@+id/user_image_view"
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#EAD839"/>
+
+</LinearLayout>

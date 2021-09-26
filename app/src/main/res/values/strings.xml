@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First Android App</string>
+    <string name="hi_i_am_textview">Hi I am TextView.</string>
+    <string name="hi_i_am_button">Hi I am button.</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">massage</string>
+</resources>
