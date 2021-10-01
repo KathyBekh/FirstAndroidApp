@@ -93,7 +93,8 @@
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintEnd_toStartOf="@+id/guideline4"
         app:srcCompat="@drawable/ic_launcher_foreground"
-        android:background="#00ff00"/>
+        android:background="#00ff00"
+        android:contentDescription="@string/description" />
 
     <VideoView
         android:id="@+id/videoView"
