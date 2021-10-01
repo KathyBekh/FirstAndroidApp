@@ -11,22 +11,17 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="#ff0000"/>
-    <Space
-        android:layout_width="150dp"
-        android:layout_height="match_parent"/>
 
     <TextView
         android:layout_width="0dp"
         android:layout_height="match_parent"
+        android:layout_marginLeft="150dp"
+        android:layout_marginRight="10dp"
         android:layout_weight="1"
         android:text="@string/hi_i_am_textview"
         android:textColor="#3B39EA"
         android:textSize="25sp"
-        android:background="#00ff00"/>
-
-    <Space
-        android:layout_width="10dp"
-        android:layout_height="0dp" />
+        android:background="#00ff00" />
 
     <ProgressBar
         android:layout_width="0dp"

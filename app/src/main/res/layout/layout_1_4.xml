@@ -4,10 +4,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="10dp"
-    android:layout_gravity="bottom">
+    android:layout_gravity="top">
 
     <Button
-        android:id="@+id/account_b"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:background="#EAD839"
@@ -25,7 +24,6 @@
         android:layout_marginBottom="10dp"/>
 
     <ImageView
-        android:id="@+id/user_image_view"
         android:src="@mipmap/ic_launcher"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

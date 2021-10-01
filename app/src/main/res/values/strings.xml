@@ -3,6 +3,8 @@
     <string name="hi_i_am_textview">Hi I am TextView.</string>
     <string name="hi_i_am_button">Hi I am button.</string>
     <string name="to">to</string>
-    <string name="subject">subject</string>
-    <string name="message">massage</string>
+    <string name="message">I am TextEditor.</string>
+    <string name="third_textview">Third textView</string>
+    <string name="second_textview">Second textView</string>
+    <string name="first_textview">First textView</string>
 </resources>
