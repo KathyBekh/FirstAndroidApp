@@ -7,4 +7,6 @@
     <string name="third_textview">Third textView</string>
     <string name="second_textview">Second textView</string>
     <string name="first_textview">First textView</string>
+    <string name="checkbox">Hi. I am CheckBox</string>
+    <string name="checkedtextview">Hiz I am CheckedTextView</string>
 </resources>
